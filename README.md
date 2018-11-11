@@ -1,28 +1,25 @@
 # [_ResearchKernel_](ResearchKernel.com)
 #### A Platform to the Researchers, for the Researchers and by the Researchers.  
 
-The objective of this _open source project_ is to provide a platform for searching research paper available on arxiv as of now and give recommendations based on the interaction with the platform, Personalised recommendation of research papers and notify the user only about which recent paper is relevant based on what have you searh and interaction on this platform    
+The objective of this _open source project_ is to provide a platform for searching research paper available on arxiv.org as of now and give recommendations based on the interaction with the platform. Personalised recommendation of research papers and notify the user only about which recent paper is relevant based on what have they searched and interaction on this platform.
 
-## Our Future 
-
-We're not sure if this project is going to make any difference in the research world. However, we're taking our chances and second of all we love anything related to research and development irrespective of the field. 
-
-If somehow this project does make it to the market and get a stable point and we are able to get some donations then our next focus is to implement the research papers mostly focused on renewable energy, computer science and physics related topics.
-
-
-## Ideas for this project
+Following are our short term Goals:
 
 1. Smart Search Engine
 2. Personalised Recommendation System
-3. Content based Recommendation System
-4. Discource Community
+3. Similar papers
+4. Community Forum
 5. Personalized Updates 
-6. Personal Libray 
+6. Personal Library 
+7. Research Rooms 
+9. Collaborator Finder
+
+
 ## Research Paper categories
 
 We are using papers available on https://arxiv.org/ . Initially we thought of to build our product on only selected categories, but now we are including all the categories and subcategories on arxiv.
 
-Following is are the arxiv code and the Category names for which we are providing paper recommendations and SmartSearch.
+Following is are the arxiv.org code and the Category names for which we are providing paper recommendations and SmartSearch.
 
 Arxiv code | Category Names
 ------- | -------
@@ -184,13 +181,13 @@ stat.TH | Statistics Theory
 
 Sections | Description
 ---------|----------
-Web Development | Our project manifestor
+Web Development | Website Platform
 Data Science | We use machine learning and deep learning for building Personalised and content based recommendation systems
-Cloud Platform | We prefered AWS Cloud for our Development, Stagging, Production environments because it's easy to use and fit perfect for our project  
+Cloud Platform | We use AWS Cloud for our Development, Staging, Production environments because it's easy to use and fit perfect for our project  
 
 ### Web Development
 
-As the name suggest we build the FrontEnd and BackEnd of our website for this project. For BackEnd we use node.js and for FrontEnd we use react.js. For Database we use MySQL(or Maybe AuroraDB by AWS) and Neo4j graph Database. 
+As the name suggest we build the FrontEnd and BackEnd of our website for this project. For BackEnd we use node.js and for FrontEnd we use react.js. For Database we use ElasticSearch, MySQL and Neo4j graph Database. 
 
 ### Data Science
 
@@ -198,7 +195,7 @@ We are not bound by any language or Library in data science, but as of now we us
  
 ### Cloud 
 
-We are currently using AWS Cloud Platform for development, staging and Production workloads. From Automated Deployemnt Prespected we are thinkinf of using Jenkins, Kubernetes and docker for containers. 
+We are using AWS Cloud Platform for development, staging and Production workloads.
  
 
 # We are working on...
@@ -206,33 +203,25 @@ We are currently using AWS Cloud Platform for development, staging and Productio
 2. Smart Search Engine
 3. Paper Discussion Board
 4. User Library 
-6. Docker, Kubernetes and Jenkins 
+6. Development and deployment on Docker 
 7. AWS platform Website Architecture
 8. Website FrontEnd in react.js using ant-design
 9. API Development for recommendation systems in production 
 10. Arxiv metadata Database Syncing to development and production environments 
 
-# Finsihed Tasks.
+# Finished Tasks.
 - [x] Content Based Paper Recommendation System for 1 billion research papers
 - [x] Github Integration
 - [x] Smart Search Engine [POC]
 - [x] AWS Data Science Architecture Setup
 - [x] Database Setup with only 1 million papers [for POC] 
+- [x] Build Knowledge Graph of 4 million research papers.
 
-
-# GuideLines for Collaborators
-
-WILL ADD THIS IN FUTURE
-
-# We NEED collaborators 
-
-As this is an Open Souce Project we are looking for developers who can help on this mission. We have many collaborators till now, but as of now only two are actively working on this project, we are actively looking for collaborators for this project.
-
-# Collaborators on this project 
+# Code Commiters on this project 
 
 * Prakritidev Verma https://www.linkedin.com/in/prakritidevverma/
   * A Data Scientist, AWS Solution Architect. He started this project in March 2018 and responsible for end-to-end development of Recommendation Systems and move them in production. Designed AWS Cloud Architect of this project. He is currently working as a consulant at SteppingCloud an SAP SuccesFactors consulting company.
 * Amit Kushwaha https://www.linkedin.com/in/amit-kushwaha-755704106/
   * A UI Developer, He is responsible for the whole FrontEnd developement of the project and deployemnt on aws infrastructure using Docker. He is currently working at TCS as a UI Developer. 
-* Shubham Suyal https://www.linkedin.com/in/shubham-suyal/
-  * A BlockChain Developer, Backend Developer. He is responsible for Node.js API, Database Design and Elastic Stack Development of the project and deployemnt on aws infrastructure using Docker.
+* Tushar Mudgal https://www.linkedin.com/in/tusharmudgal3/
+  * A Full Stack Developer. He is responsible for Node.js API, Database Design and Elastic Stack Development of the project and deployemnt on aws infrastructure using Docker.
