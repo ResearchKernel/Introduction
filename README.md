@@ -1,4 +1,4 @@
-# [_ResearchKernel_](ResearchKernel.com)
+# [_ResearchKernel_](Researchkernel.org)
 #### A Platform to the Researchers, for the Researchers and by the Researchers.  
 
 The objective of this _open source project_ is to provide a platform for searching research paper available on arxiv.org as of now and give recommendations based on the interaction with the platform. Personalised recommendation of research papers and notify the user only about which recent paper is relevant based on what have they searched and interaction on this platform.
