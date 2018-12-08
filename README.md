@@ -1,25 +1,23 @@
 # [_ResearchKernel_](https://researchkernel.org/)
 #### A Platform to the Researchers, for the Researchers and by the Researchers.  
 
-The objective of this _open source project_ is to provide a platform for searching research paper available on arxiv.org as of now and give recommendations based on the interaction with the platform. Personalised recommendation of research papers and notify the user only about which recent paper is relevant based on what have they searched and interaction on this platform.
+Our objective at Research Kernel is to not only provide a platform for you to perform Research but also make it interactive. With Personalised Recommendations, we make the tedious task of searching easier. It's a community-driven interface ensuring that you find the 
 
-Following are our short term Goals:
+Features Available but not limited to:
 
-1. Smart Search Engine
-2. Personalised Recommendation System
-3. Similar papers
-4. Community Forum
-5. Personalized Updates 
-6. Personal Library 
-7. Research Rooms 
-9. Collaborator Finder
+1. **Personalised Recommendation**: To show you only what's relevant to you and save time from going through unnecessary Search Results.
+2. **Community Forum**: For you to find like-minded people and find collaborators for your projects.
+3. **Similar Papers**: Can't find what you're looking for? This feature will help you find relevant papers for your research.
 
+
+Being developers, we understand your love for Open Source. Here's the list of things you have access to:
+1. Open curated Database
+2. Pluggable APIs
+3. Open Source
 
 ## Research Paper categories
 
-We are using papers available on https://arxiv.org/ . Initially we thought of to build our product on only selected categories, but now we are including all the categories and subcategories on arxiv.
-
-Following is are the arxiv.org code and the Category names for which we are providing paper recommendations and SmartSearch.
+The web-interface is not limited to a single category. Papers available on https://arxiv.org/ are included in the vast library to be able to search **across all categories and sub-categories**. For more information, refer below:
 
 Arxiv code | Category Names
 ------- | -------
@@ -183,15 +181,15 @@ Sections | Description
 ---------|----------
 Web Development | Website Platform
 Data Science | We use machine learning and deep learning for building Personalised and content based recommendation systems
-Cloud Platform | We use AWS Cloud for our Development, Staging, Production environments because it's easy to use and fit perfect for our project  
+Cloud Platform | We use AWS Cloud for our Development, Staging, Production environments because it's easy to use and fit for the Data model.
 
 ### Web Development
 
-As the name suggest we build the FrontEnd and BackEnd of our website for this project. For BackEnd we use node.js and for FrontEnd we use react.js. For Database we use ElasticSearch, MySQL and Neo4j graph Database. 
+The Front End and Backend Development is being done with a brilliant team of Full Stack Developers. For BackEnd, we are utilizing node.js and React.js for Frontend Development. For Database we use ElasticSearch, MySQL and Neo4j Graph Database. 
 
 ### Data Science
 
-We are not bound by any language or Library in data science, but as of now we use python as language and multiple Libraries(NLTK, Spacy, Gensim, Pytorch) for implement NLP, recommendation systems tasks.  For Distribiting ML systems we use SparkML, and Tensorflow.  
+We are not bound by any language or Library in Data Science. We are using Python and multiple Libraries(NLTK, Spacy, Gensim, Pytorch) to implement NLP for Recommendation systems Tasks.  For Distribiting ML systems, we use SparkML and Tensorflow.  
  
 ### Cloud 
 
@@ -220,8 +218,8 @@ We are using AWS Cloud Platform for development, staging and Production workload
 # Code Commiters on this project 
 
 * Prakritidev Verma https://www.linkedin.com/in/prakritidevverma/
-  * A Data Scientist, AWS Solution Architect. He started this project in March 2018 and responsible for end-to-end development of Recommendation Systems and move them in production. Designed AWS Cloud Architect of this project. He is currently working as a consulant at SteppingCloud an SAP SuccesFactors consulting company.
+  * A Data Scientist, AWS Solution Architect. He started this project in March 2018 and responsible for end-to-end development of Recommendation Systems and moving it to production. Designed AWS Cloud Architecture of this project. He is currently working as a consulant at SteppingCloud an SAP SuccesFactors consulting company.
 * Amit Kushwaha https://www.linkedin.com/in/amit-kushwaha-755704106/
-  * A UI Developer, He is responsible for the whole FrontEnd developement of the project and deployemnt on aws infrastructure using Docker. He is currently working at TCS as a UI Developer. 
+  * A UI Developer, he is responsible for the whole FrontEnd developement of the project and deployemnt on AWS Infrastructure using Docker. He is currently working at TCS as a UI Developer. 
 * Tushar Mudgal https://www.linkedin.com/in/tusharmudgal3/
   * A Full Stack Developer. He is responsible for Node.js API, Database Design and Elastic Stack Development of the project and deployemnt on aws infrastructure using Docker.
