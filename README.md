@@ -179,8 +179,8 @@ stat.TH | Statistics Theory
 
 Sections | Description
 ---------|----------
-[Backend](https://github.com/ResearchKernel/frontend) | For BackEnd, we are utilizing node.js and React.js for Frontend Development. For Database we use ElasticSearch, MySQL and Neo4j Graph Database.
-[Frontend](https://github.com/ResearchKernel/backend)  | TFor FRONTEND, we are utilizing React.js for Frontend Development. For Database we use ElasticSearch, MySQL/mongoDB and Neo4j Graph Database.
+[Backend](https://github.com/ResearchKernel/backend) | For BackEnd, we are utilizing node.js and React.js for Frontend Development. For Database we use ElasticSearch, MySQL and Neo4j Graph Database.
+[Frontend](https://github.com/ResearchKernel/frontend)  | For Frontend, we are utilizing React.js for Frontend Development. For Database we use ElasticSearch, MySQL/MongoDB and Neo4j Graph Database.
 [Data Science](https://github.com/ResearchKernel/machinelearning) | We use machine learning and deep learning for building Personalised and content based recommendation systems. We are not bound by any language or Library in Data Science. We are using Python and multiple Libraries(NLTK, Spacy, Gensim, Pytorch) to implement NLP for Recommendation systems Tasks. For Distribiting ML systems, we use SparkML and Tensorflow.
 Cloud	| We are using AWS Cloud Platform for development, staging and Production workloads for this project. 
 
