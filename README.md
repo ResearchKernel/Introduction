@@ -179,47 +179,31 @@ stat.TH | Statistics Theory
 
 Sections | Description
 ---------|----------
-Web Development | Website Platform
-Data Science | We use machine learning and deep learning for building Personalised and content based recommendation systems
-Cloud Platform | We use AWS Cloud for our Development, Staging, Production environments because it's easy to use and fit for the Data model.
+[Backend](https://github.com/ResearchKernel/frontend) | For BackEnd, we are utilizing node.js and React.js for Frontend Development. For Database we use ElasticSearch, MySQL and Neo4j Graph Database.
+[Frontend](https://github.com/ResearchKernel/backend)  | TFor FRONTEND, we are utilizing React.js for Frontend Development. For Database we use ElasticSearch, MySQL/mongoDB and Neo4j Graph Database.
+[Data Science](https://github.com/ResearchKernel/machinelearning) | We use machine learning and deep learning for building Personalised and content based recommendation systems. We are not bound by any language or Library in Data Science. We are using Python and multiple Libraries(NLTK, Spacy, Gensim, Pytorch) to implement NLP for Recommendation systems Tasks. For Distribiting ML systems, we use SparkML and Tensorflow.
+Cloud	| We are using AWS Cloud Platform for development, staging and Production workloads for this project. 
 
-### Web Development
 
-The Front End and Backend Development is being done with a brilliant team of Full Stack Developers. For BackEnd, we are utilizing node.js and React.js for Frontend Development. For Database we use ElasticSearch, MySQL and Neo4j Graph Database. 
+# Upcoming Features
+1. UI/UX Development (Structure similar to Reddit)
+2. Content Based Paper Recommendation System
+3. Saving User’s bookmark and giving personalised recommendations based on that.  
+4. User can Paper like(claps), dislike, share(Twitter/). 
+5. Bigger Database for enhanced research like arxiv.org.
+6. Creating Knowledge Base Graph for Research Papers
+7. Using the power of AI/Machine Learning for giving better recommendations results.
 
-### Data Science
 
-We are not bound by any language or Library in Data Science. We are using Python and multiple Libraries(NLTK, Spacy, Gensim, Pytorch) to implement NLP for Recommendation systems Tasks.  For Distribiting ML systems, we use SparkML and Tensorflow.  
- 
-### Cloud 
+# Features available for Use
+- [x] Night/Light mode 
+- [x] Sorting of papers based Time of publish
+- [x] Instant GitHub source code search based on research papers
+- [x] Paginated response for paper listing.
+- [x] Text searching research papers
+- [x] Discourse Community for Researchers 
+- [x] Community Guidelines for Contributors 
+- [x] Project Documentation
+- [x] AWS Architecture
+- [x] Google Analytics 
 
-We are using AWS Cloud Platform for development, staging and Production workloads.
- 
-
-# We are working on...
-1. Content Based Paper Recommendation System
-2. Smart Search Engine
-3. Paper Discussion Board
-4. User Library 
-6. Development and deployment on Docker 
-7. AWS platform Website Architecture
-8. Website FrontEnd in react.js using ant-design
-9. API Development for recommendation systems in production 
-10. Arxiv metadata Database Syncing to development and production environments 
-
-# Finished Tasks.
-- [x] Content Based Paper Recommendation System for 1 billion research papers
-- [x] Github Integration
-- [x] Smart Search Engine [POC]
-- [x] AWS Data Science Architecture Setup
-- [x] Database Setup with only 1 million papers [for POC] 
-- [x] Build Knowledge Graph of 4 million research papers.
-
-# Code Commiters on this project 
-
-* Prakritidev Verma https://www.linkedin.com/in/prakritidevverma/
-  * A Data Scientist, AWS Solution Architect. He started this project in March 2018 and responsible for end-to-end development of Recommendation Systems and moving it to production. Designed AWS Cloud Architecture of this project. He is currently working as a consulant at SteppingCloud an SAP SuccesFactors consulting company.
-* Amit Kushwaha https://www.linkedin.com/in/amit-kushwaha-755704106/
-  * A UI Developer, he is responsible for the whole FrontEnd developement of the project and deployemnt on AWS Infrastructure using Docker. He is currently working at TCS as a UI Developer. 
-* Tushar Mudgal https://www.linkedin.com/in/tusharmudgal3/
-  * A Full Stack Developer. He is responsible for Node.js API, Database Design and Elastic Stack Development of the project and deployemnt on aws infrastructure using Docker.
