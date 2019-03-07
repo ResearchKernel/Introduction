@@ -1,9 +1,7 @@
 # [_ResearchKernel_](https://researchkernel.org/)
 #### Transforming research with innovation.
 
-Our objective at ResearchKernel is to not only provide a platform for you to perform Research but also make it interactive. With Personalised Recommendations, we make the tedious task of searching easier. It's a community-driven interface ensuring that you find the 
-
-Features Available but not limited to:
+Our objective at ResearchKernel is to not only provide a platform for you to perform Research but also make it interactive. With Personalised Recommendations, we make the tedious task of searching easier. It's a community-driven interface ensuring that you find the features Available but not limited to:
 
 1. **Personalised Recommendation**: To show you only what's relevant to you and save time from going through unnecessary Search Results.
 2. **Community Forum**: For you to find like-minded people and find collaborators for your projects.
